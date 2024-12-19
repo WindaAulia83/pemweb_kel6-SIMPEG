@@ -28,6 +28,7 @@ class Profilperusahaan extends CI_Controller {
     public function my_profile()
     {
         $data['title'] = 'My Profile';
+		$data['judul'] = "My Profile";
 
         // Ambil data user dari session
         $data['user'] = $this->Profilperusahaan_model->get_user_by_email($this->session->userdata('email'));
