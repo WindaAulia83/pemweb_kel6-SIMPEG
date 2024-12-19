@@ -83,7 +83,7 @@ class Riwayatkerja extends CI_Controller {
                 $this->load->view('riwayatkerja/tambah');
                 $this->load->view('templates/footer');
             } else{
-               $this->Pegawai_model->tambahDataRiwayatkerja();
+               $this->Riwayatkerja_model->tambahDataRiwayatkerja();
                $this->session->set_flashdata('flash', 'Ditambahkan');
                redirect('riwayatkerja');
         }
