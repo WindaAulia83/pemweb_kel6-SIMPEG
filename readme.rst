@@ -4,6 +4,12 @@ Aplikasi Pengolahan Data Pegawai ini dibangun menggunakan bahasa pemrograman PHP
 
 Selain itu juga dapat dipelajari bagaimana mendesain tampilan aplikasi menggunakan CSS Bootstrap 3.1.9.
 
+Akun masuk WEBSITE:
+1. ADMINISTRATOR Utama: Email-> nataliaa10.2003@gmail.com
+                        Password-> lia123
+2. Admin 2 :            Email-> windaauliaariyani84@gmail.com
+                        Password= winda1234
+
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
